@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/penguinsAreFunny/bugFinder-commitpath-number-sonarqube-preprocessor-featureSelection"
+    "url": "git+https://github.com/penguinsAreFunny/bugFinder-featureExtractor-none"
   },
-  "homepage": "https://github.com/penguinsAreFunny/bugFinder-commitpath-number-sonarqube-preprocessor-featureSelection#readme",
+  "homepage": "https://github.com/penguinsAreFunny/bugFinder-featureExtractor-none#readme",
   "bugs": {
-    "url": "https://github.com/penguinsAreFunny/bugFinder-commitpath-number-sonarqube-preprocessor-featureSelection/issues"
+    "url": "https://github.com/penguinsAreFunny/bugFinder-featureExtractor-none/issues"
   },
   "files": [
     "dist/**/*"
@@ -38,10 +38,7 @@
   },
   "dependencies": {
     "@types/node": "^15.12.2",
-    "bugfinder-commitpath-quantifier-sonarqube": "^2.16.2",
-    "bugfinder-commitpath-quantifier-sonarqubepredecessors": "^1.1.5",
     "bugfinder-framework": "^9.11.0",
-    "bugfinder-localityrecorder-commitpath": "^1.23.0",
     "ts-log": "^2.2.3"
   }
 }
